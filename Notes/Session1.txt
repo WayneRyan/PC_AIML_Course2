@@ -1,0 +1,39 @@
+S. Rajalingam
+Lots of experience training.
+Certified AI Machine Learning Engineer
+Certified trainer
+PHD Signal Processing
+
+Learning Path - 
+
+	LIBRARIES
+numpy - numerical operations 
+matplot - plots data visualization
+scikitlearn - all the ML models
+TensorFlow - deep learning
+pandas - data handling, load the data
+seaborn - advanced data visualization
+scipy - statistical analysis
+
+	STATISTICS
+	understand the data
+	
+	DATA WRANGLING -- 70% of effort
+	
+	FEATURE ENGINEERING
+	
+	EXPLORATORY DATA ANALYSIS
+	
+	FEATURE SELECTION
+	
+
+Data Analytics
+
+Descriptive - Study a dataset to decipher the details
+
+Predictive - Create a model based on existing information to predict outcome and behavior
+
+Prescriptive - Suggest action for a given situation using the collected information
+
+Google colab will run jupyter notebook.
+
